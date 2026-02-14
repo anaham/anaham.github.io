@@ -1,0 +1,26 @@
+title: Shamino's Journal
+description: BSS 학습 노트 & AI와 함께하는 기술 저널
+author: Shamino
+baseurl: ""
+url: "https://anaham.github.io"
+
+# 테마
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# 마크다운 설정
+markdown: kramdown
+highlighter: rouge
+
+# 기본 레이아웃
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
