@@ -19,6 +19,7 @@ BSS 학습 노트와 AI(Wisp)와 함께하는 기술 저널.
 
 - [Minoc ⛏️](/categories/minoc) - BSS 미니어처 프로젝트
 - [Photolog 📸](/categories/photolog) - 사진과 함께하는 기록
+- [Books & Movies 🎬📚](/categories/books-movies) - 책과 영화 리뷰
 
 ---
 
