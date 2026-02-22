@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "순수 Python으로 GPT 구현하기 - Karpathy 미니멀 코드"
 date: 2026-02-22
 categories: useful-stuff
