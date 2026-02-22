@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "메트로놈 달리기의 과학 - 리듬이 뇌와 몸에 하는 일"
-date: 2026-02-23
+date: 2026-02-22
 categories: useful-stuff
 tags: [running, health, neuroscience]
 ---
@@ -10,7 +10,7 @@ tags: [running, health, neuroscience]
 
 최근 170 BPM 메트로놈에 맞춰 달리기를 시작했다. 5km 남짓한 거리지만, 뭔가 다르다는 걸 몸이 느낀다. 단순히 "리듬에 맞춰 뛴다"는 것 이상의 효과가 있다.
 
-![5.14km 러닝 기록](/assets/2026-02-23-running-514km.png)
+![5.14km 러닝 기록](/assets/2026-02-22-running-514km.png)
 *5.14km, 5'01" 평균 페이스, 170 케이던스*
 
 ## 메트로놀 달리기란?
