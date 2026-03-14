@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spring / Java 생태계 학습 정리"
-date: 2026-03-15
+date: 2026-03-14
 categories: minoc
 tags: [bss, spring, java, mybatis]
 ---
