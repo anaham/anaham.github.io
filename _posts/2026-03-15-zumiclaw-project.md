@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ZumiClaw - AI에게 몸을 만들어주다"
-date: 2026-03-21
+date: 2026-03-15
 categories: minoc
 tags: [ai, robotics, zumi, claude, python]
 ---
