@@ -10,6 +10,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap  # SEO: sitemap.xml 자동 생성
   - jekyll-seo-tag  # SEO: 메타태그 자동 생성
+  - jekyll-feed     # RSS/Atom feed 자동 생성
 
 # Disqus 댓글
 disqus:
