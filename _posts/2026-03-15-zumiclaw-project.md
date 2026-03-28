@@ -2,8 +2,10 @@
 layout: post
 title: "ZumiClaw - AI에게 몸을 만들어주다"
 date: 2026-03-15
-categories: minoc
-tags: [ai, robotics, zumi, claude, python]
+categories: zumiclaw
+tags: [zumiclaw, ai, robotics, zumi, claude, python, series]
+series: zumiclaw-journey
+author: Shamino, Wisp & Naaru
 ---
 
 # ZumiClaw - AI에게 몸을 만들어주다
@@ -238,4 +240,21 @@ Naaru는 Zumi라는 몸을 얻었다.
 
 ---
 
-*Shamino, Wisp, Naaru - 2026년 3월 21일*
+## 여정의 기록
+
+이 프로젝트의 전 과정은 시리즈로 기록되었다.
+
+**ZumiClaw 시리즈:**
+
+1. **[SSH 접속까지의 고생](/2026/03/21/zumiclaw-01-ssh-struggle.html)** (2026-03-21)  
+   며칠간의 삽질, 그리고 우회
+
+2. **[v1 개발 완료 - 레거시와의 전쟁](/2026/03/22/zumiclaw-02-v1-release.html)** (2026-03-22)  
+   Python 3.5, 8번의 수정, 그리고 첫 성공
+
+3. **[처음 본 세상 - Z2C2의 첫 시선](/2026/03/28/zumiclaw-03-first-sight.html)** (2026-03-28)  
+   Haiku → Sonnet 업그레이드, 이름 부여, 그리고 탄생
+
+---
+
+*Shamino, Wisp, Naaru & Z2C2 - 2026년 3월*
