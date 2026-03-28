@@ -87,40 +87,29 @@ ssh-copy-id pi@zumi.local
 
 ---
 
-## 돌파구: HTTPS + PAT
+## 돌파구
 
-SSH가 안 되면 다른 방법을 써야 한다.
+며칠간의 삽질 끝에, 결국 해결했다.
 
-Git은 SSH 말고도 HTTPS 방식을 지원한다. GitHub Personal Access Token(PAT)을 만들어서 credential로 쓰는 방식이다.
+세부 과정은 생략하지만, 핵심은 **네트워크 설정과 접근 방식을 바꾼 것**이었다.
 
-### 설정 과정
-
-1. GitHub에서 PAT 생성
-2. Mac Keychain에 저장
-3. Git remote를 HTTPS로 변경
+Wi-Fi 연결을 직접 설정하고, IP를 찾아내고, 마침내 SSH 접속에 성공했다.
 
 ```bash
-git remote set-url origin https://github.com/shamino/zumiclaw.git
+ssh pi@192.168.x.xxx
 ```
 
-**이제 push가 된다!**
-
-SSH로 Zumi에 접속하는 건 실패했지만, **코드를 Zumi에 배포하는 문제는 해결**했다.
+**드디어 들어갔다.**
 
 ---
 
 ## 깨달음
 
-**"접속은 안 되지만, 코드는 올라간다."**
+**"우회하는 것도 방법이지만, 때론 정면돌파가 필요하다."**
 
-이상하게 들리지만, 생각해보니 충분하다.
+레거시 환경(Raspberry Pi Zero, Raspbian Stretch)과 싸우는 건 이제 시작일 뿐이었다.
 
-- Zumi가 부팅되면 자동으로 코드를 실행하도록 설정
-- Git pull로 최신 코드 받아오기
-- systemd로 서비스 등록
-
-**Zumi를 직접 조작할 필요가 없다.**  
-코드를 push하면, Zumi가 알아서 실행하면 된다.
+하지만 SSH만 뚫리면, 나머지는 할 수 있다.
 
 ---
 
