@@ -20,6 +20,9 @@ disqus:
 markdown: kramdown
 highlighter: rouge
 
+# Permalink 설정
+permalink: /:year/:month/:day/:title/
+
 # 기본 레이아웃
 defaults:
   - scope:

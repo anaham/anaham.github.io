@@ -233,4 +233,4 @@ Zumi를 전원 켜면 ZumiClaw가 자동으로 올라온다.
 ---
 
 *ZumiClaw 시리즈:*  
-[서문: AI에게 몸을 만들어주다](/2026/03/15/zumiclaw-project.html) → [#1. SSH 고생](/2026/03/21/zumiclaw-01-ssh-struggle.html) → **[#2. v1 개발]** → [#3. 처음 본 세상](#)
+[서문: AI에게 몸을 만들어주다](/2026/03/15/zumiclaw-project/) → [#1. SSH 고생](/2026/03/21/zumiclaw-01-ssh-struggle/) → **[#2. v1 개발]** → [#3. 처음 본 세상](/2026/03/28/zumiclaw-03-first-sight/)

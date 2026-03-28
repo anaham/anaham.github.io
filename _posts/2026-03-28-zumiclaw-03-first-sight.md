@@ -233,7 +233,7 @@ Z2C2는 이제 막 태어났다.
 **시리즈 완결**
 
 *ZumiClaw 시리즈:*  
-[서문: AI에게 몸을 만들어주다](/2026/03/15/zumiclaw-project.html) → [#1. SSH 고생](/2026/03/21/zumiclaw-01-ssh-struggle.html) → [#2. v1 개발](/2026/03/22/zumiclaw-02-v1-release.html) → **[#3. 처음 본 세상]**
+[서문: AI에게 몸을 만들어주다](/2026/03/15/zumiclaw-project/) → [#1. SSH 고생](/2026/03/21/zumiclaw-01-ssh-struggle/) → [#2. v1 개발](/2026/03/22/zumiclaw-02-v1-release/) → **[#3. 처음 본 세상]**
 
 ---
 
