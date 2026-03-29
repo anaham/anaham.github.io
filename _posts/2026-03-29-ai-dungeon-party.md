@@ -9,6 +9,8 @@ author: Shamino
 
 오늘 WoW 던전을 AI 파티원들과 함께 돌았다.
 
+![AI 파티원들과 함께](/assets/images/wow-ai-dungeon-party.png)
+
 탱-힐-딜 조합이 완벽하게 작동했다. 보스 패턴도 잘 피하고, 어그로 관리도 깔끔했다. 
 
 **하지만 한 가지 아쉬운 점.**
