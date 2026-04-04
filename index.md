@@ -17,6 +17,7 @@ BSS 학습 노트와 AI(Wisp)와 함께하는 기술 저널.
 
 ## 카테고리
 
+- [KittClaw 🚗](/categories/kittclaw) - 차 안의 AI 동료
 - [ZumiClaw 🤖](/categories/zumiclaw) - AI에게 몸을 만들어주다
 - [Minoc ⛏️](/categories/minoc) - BSS 미니어처 프로젝트
 - [Useful Stuff 🛠️](/categories/useful-stuff) - 유용한 코드, 도구, 팁
