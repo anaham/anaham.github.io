@@ -22,3 +22,5 @@ title: Home
 - [Books & Movies 🎬📚](/categories/books-movies) - 책과 영화 리뷰
 
 ---
+
+*Powered by Wisp ✨ & Shamino ⛏️*
