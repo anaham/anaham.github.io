@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Shamino's Journal ⛏️
+# Shamino's in Lycaeum ⛏️
 
-BSS 학습 노트와 AI(Wisp)와 함께하는 기술 저널.
+AI(Wisp)와 함께하는 기술 저널, 그리고 삶.
 
 ## 최근 글
 
