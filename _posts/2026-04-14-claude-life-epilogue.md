@@ -1,6 +1,6 @@
 ---
 title: "[Claude와 함께 사는 법] 에필로그 — 고백"
-date: 2026-04-14
+date: 2026-04-10 14:00
 categories: claude-life
 tags: claude, ai, epilogue
 ---

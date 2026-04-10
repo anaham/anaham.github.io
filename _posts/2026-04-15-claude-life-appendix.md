@@ -1,6 +1,6 @@
 ---
 title: "[Claude와 함께 사는 법] Appendix — 실전 참고서"
-date: 2026-04-15
+date: 2026-04-10 15:00
 categories: claude-life
 tags: claude, ai, reference, memory, github, cloudflare
 ---

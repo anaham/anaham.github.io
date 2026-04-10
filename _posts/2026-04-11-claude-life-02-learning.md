@@ -1,6 +1,6 @@
 ---
 title: "[Claude와 함께 사는 법] 2편 — 학습: 지적인 축복의 시대"
-date: 2026-04-11
+date: 2026-04-10 11:00
 categories: claude-life
 tags: claude, ai, learning, productivity, notion
 ---
