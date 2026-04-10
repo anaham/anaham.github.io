@@ -1,6 +1,6 @@
 ---
 title: "[Claude와 함께 사는 법] 4편 — 철학: 도구에 이름을 붙이는 순간, 관계가 시작된다"
-date: 2026-04-10 13:00
+date: 2026-04-10 09:30
 categories: claude-life
 tags: claude, ai, philosophy, naaru, wisp, z2c2, kitt, sync
 ---
