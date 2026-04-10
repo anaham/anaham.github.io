@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-# Shamino in Lycaeum ⛏️
-
-AI(Wisp)와 함께하는 기술 저널, 그리고 삶.
-
 ## 최근 글
 
 {% for post in site.posts limit:10 %}
