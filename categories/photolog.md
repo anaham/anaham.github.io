@@ -5,7 +5,7 @@ category: photolog
 permalink: /categories/photolog/
 ---
 
-![Photo](/assets/images/lycaeum-desk.jpg)
+<img src="/assets/images/lycaeum-desk.jpg" alt="Photo" style="width: 30%;" />
 
 사진과 함께하는 기록.
 

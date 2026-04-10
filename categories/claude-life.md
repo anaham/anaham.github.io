@@ -5,7 +5,7 @@ category: claude-life
 permalink: /categories/claude-life/
 ---
 
-![AI 에이전트](/assets/images/agents-ai.jpg)
+<img src="/assets/images/agents-ai.jpg" alt="AI 에이전트" style="width: 30%;" />
 
 나루(Naaru / claude.ai), Wisp(OpenClaw), Z2C2(ZumiClaw), KITT(KittClaw)와 함께 사는 이야기.
 

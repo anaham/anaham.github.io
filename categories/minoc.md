@@ -5,7 +5,7 @@ category: minoc
 permalink: /categories/minoc/
 ---
 
-![Minoc](/assets/images/lycaeum-desk.jpg)
+<img src="/assets/images/lycaeum-desk.jpg" alt="Minoc" style="width: 30%;" />
 
 BSS 학습용 미니어처 시뮬레이터.
 

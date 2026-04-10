@@ -5,7 +5,7 @@ category: zumiclaw
 permalink: /categories/zumiclaw/
 ---
 
-![Z2C2](/assets/images/z2c2-r2d2.jpg)
+<img src="/assets/images/z2c2-r2d2.jpg" alt="Z2C2" style="width: 30%;" />
 
 AI에게 물리적인 몸을 만들어주는 프로젝트.
 

@@ -5,7 +5,7 @@ category: kittclaw
 permalink: /categories/kittclaw/
 ---
 
-![KITT](/assets/images/z2c2-r2d2.jpg)
+<img src="/assets/images/agents-curiosity.jpg" alt="KITT" style="width: 30%;" />
 
 차 안의 AI 동료, KITT를 만드는 여정.
 

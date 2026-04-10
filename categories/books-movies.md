@@ -5,7 +5,7 @@ category: books-movies
 permalink: /categories/books-movies/
 ---
 
-![Books & Movies](/assets/images/agents-sync.jpg)
+<img src="/assets/images/agents-sync.jpg" alt="Books & Movies" style="width: 30%;" />
 
 책과 영화 리뷰.
 

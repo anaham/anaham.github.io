@@ -5,7 +5,7 @@ category: useful-stuff
 permalink: /categories/useful-stuff/
 ---
 
-![Tools](/assets/images/agents-curiosity.jpg)
+<img src="/assets/images/agents-curiosity.jpg" alt="Tools" style="width: 30%;" />
 
 유용한 코드, 도구, 팁 모음.
 
