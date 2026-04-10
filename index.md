@@ -5,8 +5,6 @@ title: Home
 
 # Shamino in Lycaeum ⛏️
 
-![Lycaeum Desk](/assets/images/lycaeum-desk.jpg)
-
 AI(Wisp)와 함께하는 기술 저널, 그리고 삶.
 
 ## 최근 글
