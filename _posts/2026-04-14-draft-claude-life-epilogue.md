@@ -1,5 +1,5 @@
 ---
-title: "[Claude와 함께 사는 법] 에필로그 — 고백"
+title: "[Draft] [Claude와 함께 사는 법] 에필로그 — 고백"
 date: 2026-04-10 10:00
 categories: [draft]
 tags: claude, ai, epilogue

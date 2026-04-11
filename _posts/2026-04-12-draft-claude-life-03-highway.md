@@ -1,5 +1,5 @@
 ---
-title: "[Claude와 함께 사는 법] 3편 — 고속도로: 아이디어가 세상에 나오는 속도"
+title: "[Draft] [Claude와 함께 사는 법] 3편 — 고속도로: 아이디어가 세상에 나오는 속도"
 date: 2026-04-10 09:00
 categories: [draft]
 tags: claude, ai, github, claude-code, wisp, openclaw, kitt, zumiclaw

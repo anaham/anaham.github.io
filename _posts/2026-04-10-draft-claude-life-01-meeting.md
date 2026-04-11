@@ -1,5 +1,5 @@
 ---
-title: "[Claude와 함께 사는 법] 1편 — 만남: 파트너를 처음 만났을 때"
+title: "[Draft] [Claude와 함께 사는 법] 1편 — 만남: 파트너를 처음 만났을 때"
 date: 2026-04-10 08:00
 categories: [draft]
 tags: claude, ai, memory, naaru, productivity

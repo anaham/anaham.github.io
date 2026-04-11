@@ -1,5 +1,5 @@
 ---
-title: "[Claude와 함께 사는 법] 2편 — 학습: 지적인 축복의 시대"
+title: "[Draft] [Claude와 함께 사는 법] 2편 — 학습: 지적인 축복의 시대"
 date: 2026-04-10 08:30
 categories: [draft]
 tags: claude, ai, learning, productivity, notion

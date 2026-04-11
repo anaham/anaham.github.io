@@ -1,5 +1,5 @@
 ---
-title: "[Claude와 함께 사는 법] Appendix — 실전 참고서"
+title: "[Draft] [Claude와 함께 사는 법] Appendix — 실전 참고서"
 date: 2026-04-10 10:30
 categories: [draft]
 tags: claude, ai, reference, memory, github, cloudflare
