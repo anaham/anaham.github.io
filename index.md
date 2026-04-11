@@ -5,7 +5,8 @@ title: Home
 
 ## 최근 글
 
-{% for post in site.posts limit:10 %}
+{% assign visible_posts = site.posts | where_exp: "post", "post.categories contains 'draft' == false" %}
+{% for post in visible_posts limit:10 %}
 - **[{{ post.title }}]({{ post.url }})** - {{ post.date | date: "%Y-%m-%d" }}
 {% endfor %}
 
