@@ -5,9 +5,14 @@ title: Home
 
 ## 최근 글
 
-{% assign visible_posts = site.posts | where_exp: "post", "post.categories contains 'draft' == false" %}
-{% for post in visible_posts limit:10 %}
+{% assign count = 0 %}
+{% for post in site.posts %}
+{% unless post.categories contains 'draft' %}
+{% if count < 10 %}
 - **[{{ post.title }}]({{ post.url }})** - {{ post.date | date: "%Y-%m-%d" }}
+{% assign count = count | plus: 1 %}
+{% endif %}
+{% endunless %}
 {% endfor %}
 
 ---
@@ -21,7 +26,7 @@ title: Home
 - [Useful Stuff 🛠️](/categories/useful-stuff) - 유용한 코드, 도구, 팁
 - [Photolog 📸](/categories/photolog) - 사진과 함께하는 기록
 - [Books & Movies 🎬📚](/categories/books-movies) - 책과 영화 리뷰
-- [...]( /categories/draft/)
+- [...](/categories/draft/)
 
 ---
 
