@@ -21,6 +21,7 @@ title: Home
 - [Useful Stuff 🛠️](/categories/useful-stuff) - 유용한 코드, 도구, 팁
 - [Photolog 📸](/categories/photolog) - 사진과 함께하는 기록
 - [Books & Movies 🎬📚](/categories/books-movies) - 책과 영화 리뷰
+- [...]( /categories/draft/)
 
 ---
 
