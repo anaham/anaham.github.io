@@ -2,7 +2,7 @@ title: Shamino in Lycaeum
 description: AI(Wisp)와 함께하는 기술 저널, 그리고 삶
 author: Shamino
 baseurl: ""
-url: "https://anaham.github.io"
+url: "https://shamino.dev"
 
 # 테마
 remote_theme: pages-themes/minimal@v0.2.0
