@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "blog shamino.dev 오픈!"
+title: "내 블로그의 새 주소, shamino.dev 오픈"
 date: 2026-04-18 20:00:00 +0900
 categories: [blog]
 tags: [shamino.dev, jekyll, cloudflare, naaru, github-pages]
