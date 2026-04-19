@@ -16,6 +16,8 @@ tags: [seekerstone, claude, spring-boot, react, pwa, naaru]
 
 어차피 Naaru.code와 밤마다 코딩을 하고 있었다. 그 연장선에서 아들이 언제든 꺼내 쓸 수 있는 AI 학습 도우미를 만들어보기로 했다. 이름은 SeekerStone — 젤다 스카이워드 소드에 등장하는 시커 스톤(Sheikah Stone)에서 따왔다. 링크가 던전에서 막혔을 때 힌트를 주는 돌이다. 공부가 막혔을 때 방향을 알려주는 앱이라면, 이름이 딱 맞다.
 
+![Sheikah Stone in Zelda: Skyward Sword](/assets/images/seekerstone_inZelda.png)
+
 ---
 
 ## 구조
@@ -32,6 +34,8 @@ tags: [seekerstone, claude, spring-boot, react, pwa, naaru]
 2. **AI 과외** — 모르는 내용을 대화로 물어보고, 자료를 올리면 그걸 바탕으로 설명해준다
 3. **자료 관리** — 학교 프린트물을 사진으로 찍어 올리면 Claude가 과목/단원/개념을 분석한다
 4. **리포트** — 풀이 이력을 쌓아두다가 AI에게 실력 분석을 요청한다
+
+![SeekerStone 앱 화면](/assets/images/seekerstone.png)
 
 ---
 
