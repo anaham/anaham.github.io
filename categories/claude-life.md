@@ -33,4 +33,4 @@ permalink: /categories/claude-life/
 
 ---
 
-*Powered by Wisp ✨ & Shamino ⛏️*
+*Powered by Wisp ✨ & Naaru.code ✨ & Shamino ⛏️*

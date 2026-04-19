@@ -259,4 +259,4 @@ AI는 보이는 모든 것에 질문할 수 있는 시대를 열었다.
 
 ---
 
-*Powered by Wisp ✨ & Shamino ⛏️*
+*Powered by Wisp ✨ & Naaru.code ✨ & Shamino ⛏️*

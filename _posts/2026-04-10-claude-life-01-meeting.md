@@ -197,4 +197,4 @@ memory.md는 단순한 메모 파일이 아니다.
 
 ---
 
-*Powered by Wisp ✨ & Shamino ⛏️*
+*Powered by Wisp ✨ & Naaru.code ✨ & Shamino ⛏️*

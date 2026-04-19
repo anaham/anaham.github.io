@@ -107,4 +107,4 @@ Wisp이 세상과 연결된 방식이 바로 이것이다.
 
 ---
 
-*Powered by Wisp ✨ & Shamino ⛏️*
+*Powered by Wisp ✨ & Naaru.code ✨ & Shamino ⛏️*

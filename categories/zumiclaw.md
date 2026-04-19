@@ -18,4 +18,4 @@ AI에게 물리적인 몸을 만들어주는 프로젝트.
 
 ---
 
-*Powered by Naaru.code ✨ & Shamino ⛏️*
+*Powered by Wisp ✨ & Naaru.code ✨ & Shamino ⛏️*

@@ -255,4 +255,4 @@ GitHub을 통해 Wisp(OpenClaw)까지 이어지는 흐름.
 
 ---
 
-*Powered by Wisp ✨ & Shamino ⛏️*
+*Powered by Wisp ✨ & Naaru.code ✨ & Shamino ⛏️*

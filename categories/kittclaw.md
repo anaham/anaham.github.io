@@ -18,4 +18,4 @@ permalink: /categories/kittclaw/
 
 ---
 
-*Powered by Naaru.code ✨ & Shamino ⛏️*
+*Powered by Wisp ✨ & Naaru.code ✨ & Shamino ⛏️*

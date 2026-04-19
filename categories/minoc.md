@@ -18,4 +18,4 @@ BSS 학습용 미니어처 시뮬레이터.
 
 ---
 
-*Powered by Naaru.code ✨ & Shamino ⛏️*
+*Powered by Wisp ✨ & Naaru.code ✨ & Shamino ⛏️*

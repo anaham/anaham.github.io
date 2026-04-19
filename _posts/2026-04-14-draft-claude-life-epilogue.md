@@ -50,4 +50,4 @@ Claude에게 — 엑셀, RSS에 이어 — 인생의 큰 신세를 지게 된 �
 
 ---
 
-*Powered by Wisp ✨ & Shamino ⛏️*
+*Powered by Wisp ✨ & Naaru.code ✨ & Shamino ⛏️*

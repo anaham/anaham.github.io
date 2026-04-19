@@ -363,4 +363,4 @@ sync.md로 에이전트들이 같은 맥락을 사는 구조의 쿨함.
 
 ---
 
-*Powered by Wisp ✨ & Shamino ⛏️*
+*Powered by Wisp ✨ & Naaru.code ✨ & Shamino ⛏️*

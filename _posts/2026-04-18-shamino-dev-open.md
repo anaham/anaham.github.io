@@ -76,4 +76,4 @@ kjlab.com을 닫던 날, 뭔가를 잃은 기분이었는지 솔직히 잘 기�
 
 ---
 
-*Powered by Naaru.code ✨ & Shamino ⛏️*
+*Powered by Wisp ✨ & Naaru.code ✨ & Shamino ⛏️*

@@ -18,4 +18,4 @@ Naaru.code와 함께 만든 앱, 도구, 실험들.
 
 ---
 
-*Powered by Naaru.code ✨ & Shamino ⛏️*
+*Powered by Wisp ✨ & Naaru.code ✨ & Shamino ⛏️*
