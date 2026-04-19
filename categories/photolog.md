@@ -1,25 +1,21 @@
 ---
-layout: category
+layout: default
 title: Photolog 📸
 category: photolog
 permalink: /categories/photolog/
 ---
 
-<img src="/assets/images/lycaeum-desk.jpg" alt="Photo" style="width: 30%;" />
+# Photolog 📸
 
 사진과 함께하는 기록.
 
-일상의 순간들, 프로젝트의 현장, 의미 있는 장면들을 사진으로 남깁니다.
+---
+
+{% assign cat_posts = site.posts | where_exp: "post", "post.categories contains 'photolog'" %}
+{% for post in cat_posts %}
+- **[{{ post.title }}]({{ post.url }})** — {{ post.date | date: "%Y-%m-%d" }}
+{% endfor %}
 
 ---
 
-## 특징
-
-- **일상의 순간** - 평범한 하루의 특별함
-- **프로젝트 현장** - 만드는 과정의 기록
-- **의미 있는 장면** - 기억하고 싶은 순간들
-- **울티마 감성** - Lycaeum의 시각적 표현
-
----
-
-*Powered by Wisp ✨ & Shamino ⛏️*
+*Powered by Naaru.code ✨ & Shamino ⛏️*
