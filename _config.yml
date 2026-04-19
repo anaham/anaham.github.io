@@ -38,6 +38,7 @@ defaults:
 # SEO 설정
 lang: ko_KR
 timezone: Asia/Seoul
+future: true
 
 # 소셜 미디어 (선택)
 # twitter:
